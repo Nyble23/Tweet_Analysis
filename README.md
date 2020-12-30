@@ -8,7 +8,7 @@ This is small analysis of tweets collected on a particular day in June,2020. In 
 #RestInPeace was mostly being used in woke of Coronavirus death and #MissYouYuvi for Yuvraj Singh. There was a cross-over between both the hashtags. The main goal was to study ana analyse cross-over between the these two hashtags.
 
 ### Dataset
-The associated tweets can be found in the dataset present in the repository. Tweets are present in JSON format.
+The associated tweets can be found in the dataset present in the repository. Tweets are present in JSON format and were extracted on 10 June,2020.
 
 ### Methodology
 1. The tweets were divided into 3 main categories : #MissYouYuvi only, #RestInPeace only, Both #RestInPeace and #MissYouYuvi
