@@ -21,4 +21,4 @@ The associated tweets can be found in the dataset present in the repository. Twe
 - Topic Modelling on the three classes.
 - With respect to the Tweets for #RestInPeace, location information from the meta-data of tweet was identified, and it was verified whether the number of deaths in a location is correlated to the number of cases in the region. ( Number of cases in a region were pulled out from this [source](https://www.covid19india.org/)).
 
-***The Python Notebook can be used as a reference to understand how raw tweets can be used to bring out meaningful outcomes.***
+***The Python Notebook can be used as a reference to understand how raw tweets can be pre-processed to bring out meaningful outcomes.***
